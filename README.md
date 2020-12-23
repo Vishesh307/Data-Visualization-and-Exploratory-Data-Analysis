@@ -1,4 +1,4 @@
-# ML-mini
+# Data Visualization and Exploratory Data Analysis
 
 
 Problem Statement:
